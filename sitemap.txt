@@ -1,0 +1,10 @@
+https://luzon-central-region3-cis.github.io/
+https://luzon-central-region3-cis.github.io/weather-services/
+https://luzon-central-region3-cis.github.io/cropping-calendar-v2/
+https://luzon-central-region3-cis.github.io/agroclimatic-services/
+https://luzon-central-region3-cis.github.io/bulletins/
+https://luzon-central-region3-cis.github.io/bulletins/weather/
+https://luzon-central-region3-cis.github.io/bulletins/seasonal-outlook/
+https://luzon-central-region3-cis.github.io/bulletins/special-weather-forecast/
+https://luzon-central-region3-cis.github.io/admin/login/
+https://luzon-central-region3-cis.github.io/superadmin/login/
